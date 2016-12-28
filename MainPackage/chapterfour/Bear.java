@@ -1,4 +1,4 @@
-package MainPackage;
+package MainPackage.chapterfour;
 
 public class Bear extends Animal {
     
