@@ -1,3 +1,5 @@
+package mainpackage;
+
 public class ParsingPractice
 {
     public static void main(String[] args) {
