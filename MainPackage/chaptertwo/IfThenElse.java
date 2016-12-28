@@ -11,7 +11,6 @@ class IfThenElse{
         // Heading
         System.out.println("START NEW CALL");
         
-        
         // If
         x=2;
         if (x==1) 

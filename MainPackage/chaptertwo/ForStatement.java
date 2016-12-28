@@ -6,12 +6,10 @@ public class ForStatement {
         
         ForStatement FS = new ForStatement();
         FS.loop();
-        
-        
+       
     }
 
-    void loop() {
-        
+    void loop() { 
         
         for(int i = 0; ; ) {
             i++;

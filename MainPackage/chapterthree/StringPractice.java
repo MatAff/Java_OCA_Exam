@@ -1,5 +1,4 @@
-package mainpackage;
-
+package MainPackage.chapterthree;
 
 public class StringPractice
 {

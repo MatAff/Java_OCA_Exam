@@ -1,4 +1,4 @@
-package mainpackage;
+package MainPackage.chaptertwo;
 
 public class LoopPractice
 {

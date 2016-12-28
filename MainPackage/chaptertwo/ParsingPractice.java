@@ -1,4 +1,4 @@
-package mainpackage;
+package MainPackage.chapterthree;
 
 public class ParsingPractice
 {
@@ -50,6 +50,8 @@ public class ParsingPractice
    
        myLong = 123;
        System.out.println("myLong = " + myLong);
+       
+       long lastLong = myInt;
        
        
     }

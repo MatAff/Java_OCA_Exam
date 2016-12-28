@@ -1,4 +1,4 @@
-package MainPackage;
+package MainPackage.chapterthree;
 
 public class WrapperPractice
 {
