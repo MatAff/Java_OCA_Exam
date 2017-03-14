@@ -26,6 +26,9 @@ public class Lambda
         System.out.println("Lambda - makes noice");
         print(animals, a -> a.makesNoice());
         
+        System.out.println("Simple return");
+        print(animals, a -> {return true;});
+        
     }
     
     private static void print(List<Animal> animals, CheckTrait checker) {
